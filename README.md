@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shafiu Rabiu @Shafiu283
-- 👀 I’m a web developer interested in Laravel, VueJS, TailwindCSS and InertiaJS
+- 👀 I’m a software developer interested in Laravel, VueJS, TailwindCSS, InertiaJS and Flutter
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Laravel & VueJS(InertiaJS) Projects
+- 💞️ I’m looking to collaborate on Laravel & VueJS(InertiaJS) or Flutter Projects
 - 📫 You can reach me shafiu283@gmail.com
 
 <!---
