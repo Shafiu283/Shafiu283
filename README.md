@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shafiu Rabiu @Shafiu283
-- 👀 I’m a software developer interested in Laravel, Vue.js, TailwindCSS, Livewire, Inertia.js & Flutter
+- 👀 I’m a full stack web developer interested in Laravel, Vue.js, TailwindCSS, Livewire & Inertia.js
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Laravel, Vue.js, Livewire, Inertia.js & Flutter Projects
 - 📫 You can reach me shafiu283@gmail.com
