@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shafiu Rabiu @Shafiu283
 - 👀 I’m a full-stack web developer interested in WordPress, Laravel, Vue.js, TailwindCSS, & Inertia.js
-- 🌱 I’m currently learning Laravel Spark
+- 🌱 I’m currently learning React & React Native
 - 💞️ I’m looking to collaborate on Laravel, Vue.js, TailwindCSS, & Inertia.js Projects
 - 📫 You can reach me at shafiu283@gmail.com
 
